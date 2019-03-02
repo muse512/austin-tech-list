@@ -48,6 +48,14 @@
       plusCode: '7795+4H Austin, Texas',
     },
 
+{
+    name: 'Outdoor Voices',
+    homepage: 'https://www.outdoorvoices.com/',
+    careers: 'https://www.outdoorvoices.com/pages/careers',
+    address: '606 Blanco St, Austin, TX 78703',
+    plusCode: '76FV+75 Austin, Texas',
+},
+
     {
       name: 'ShipStation',
       homepage: 'https://www.shipstation.com/',
@@ -63,6 +71,7 @@
       address: '205 E Riverside Dr, Austin, TX 78704',
       plusCode: '7734+W2 Austin, Texas',
     },
+
   ]
   // THE LIST ENDS HERE
 })
